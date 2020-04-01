@@ -1,0 +1,31 @@
+body{
+    background: #fefcea; /* Для старых браузров */
+    background: linear-gradient(to bottom, #fefcea, #f1da36);
+}
+
+.wsa{
+    font-size: 20px;
+    vertical-align: 0.1em;
+}
+.txt{
+    vertical-align: 0.6em;
+    font-size: 10px;
+}
+button{
+    margin-top: 20px;
+    height: 35px;
+    border-radius: 4px;
+    background: #b5bdc8;
+    background: linear-gradient(to bottom, #b5bdc8 0%, #828c95 36%, #59707e 100%);
+}
+h2{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+h1{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
